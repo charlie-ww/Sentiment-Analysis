@@ -1,2 +1,7 @@
 #ignore zip files
 *.zip
+#ignore 
+*.csv
+*.pth
+__pycache__/
+dataset/
